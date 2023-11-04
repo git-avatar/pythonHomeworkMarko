@@ -1,2 +1,2 @@
-# pythonclasses
-Casovi po python.
+# pythonHomeworkMarko
+
